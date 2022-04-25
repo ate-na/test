@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "tsc"
+    "postinstall": "tsc && tsc ./index"
   },
   "author": "",
   "license": "ISC",
