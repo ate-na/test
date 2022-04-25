@@ -18,5 +18,6 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false
   },
-  "exclude": ["tsconfig.json","node_modules"]
+  "exclude": ["tsconfig.json","node_modules"],
+  "include": ["./index.ts","./src"]
 }
