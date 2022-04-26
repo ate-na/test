@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "tsc && tsc ./index.ts --experimentalDecorators"
+    "postinstall": "tsc"
   },
   "author": "",
   "license": "ISC",
