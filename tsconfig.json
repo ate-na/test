@@ -18,5 +18,5 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false
   },
-  "exclude": ["node_modules", "**/*.spec.ts","src/**/*"]
+  "exclude": ["node_modules","src/**/*"]
 }
